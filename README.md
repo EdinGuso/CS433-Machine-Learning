@@ -1,5 +1,6 @@
-# CS433-2021-eCARE2
-This repository has been created by Abdulkadir Gokce, Edin Guso and Güneş Başak Özgün for CS433 Project 2.
+# CS433-Machine Learning
+
+This repo includes the group project I worked on for the CS433: Machine Learning course at EPFL during Fall 2021 semester.
 
 It consists of scripts and notebooks to preprocess and analyze MSF eCARE patient dataset.
 
