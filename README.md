@@ -1,6 +1,6 @@
 # CS433-Machine Learning
 
-This repo includes the group project I worked on for the CS433: Machine Learning course at EPFL during Fall 2021 semester.
+This repo includes the group project I worked on for the CS433: Machine Learning course at EPFL during Fall 2021 semester. The final report of this project can be found [here](CS433_2021_eCARE2.pdf).
 
 It consists of scripts and notebooks to preprocess and analyze MSF eCARE patient dataset.
 
